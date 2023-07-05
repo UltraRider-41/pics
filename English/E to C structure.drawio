@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2023-07-05T01:23:59.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u7YcQsowGlA9lsuUjkzA" version="21.5.2" type="github">
+  <diagram name="第 1 页" id="djKEgvbJjeiakB17KjkS">
+    <mxGraphModel dx="794" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W3Oxhw9aderNDckfw6xA-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="283" y="361.5" width="87" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="362" y="246.5" width="37" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="150" width="55" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-1" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-left:21.0pt&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,serif&quot;&gt;&lt;u&gt;Educators have traditionally relied on assessment&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;that compares students with more successful peers&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="191" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-5" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="198" as="sourcePoint" />
+            <mxPoint x="440" y="168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;but recent research suggests (&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="212" y="239" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-11" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="294" as="sourcePoint" />
+            <mxPoint x="380" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-14" value="&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;u&gt;students will likely be motivated and confident learners&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240.5" y="290" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-15" value="&lt;span lang=&quot;EN-US&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;when they experience progress and achievement, rather than the failure and defeat&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240.5" y="340" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="345" as="sourcePoint" />
+            <mxPoint x="380" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;associated with being compared to more successful peers.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="181" y="400" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-21" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#f0a30a;strokeColor=#BD7000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="326" y="410" as="sourcePoint" />
+            <mxPoint x="326" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;as a means to motivate students to learn,&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="247" y="95" as="sourcePoint" />
+            <mxPoint x="297" y="146" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="252" as="sourcePoint" />
+            <mxPoint x="220" y="162" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="142" y="206" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W3Oxhw9aderNDckfw6xA-31" value="&lt;font color=&quot;#ff3333&quot; face=&quot;Times New Roman&quot;&gt;compound sentences&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="191" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
